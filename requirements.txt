@@ -1,0 +1,2 @@
+pyspark==3.0.1
+snowflake-connector-python==2.7.8

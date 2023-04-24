@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "item001_sys001",
+    "_model_id": "purchase_order",
+    "_created_by._id": "User001",
+    "_created_by": {
+      "_id": "User001",
+      "Name": "User1",
+      "Kind": "User"
+    },
+    "_created_by.Name": "User1",
+    "_created_by.Kind": "User",
+    "_created_at.value": "2023-04-24T06:08:36.887+05:30",
+    "_created_at.display_value": "2023-04-19T06:51:06Z",
+    "_created_at.timedelta": "",
+    "_created_at.timezone": "GMT"
+  },
+  {
+    "_id": "item001_sys002",
+    "_model_id": "purchase_order",
+    "_created_by._id": "User002",
+    "_created_by": {
+      "_id": "User002",
+      "Name": "User2",
+      "Kind": "User"
+    },
+    "_created_by.Name": "User2",
+    "_created_by.Kind": "User",
+    "_created_at.value": "2023-04-24T06:08:36.887+05:30",
+    "_created_at.display_value": "2023-04-19T06:51:06Z",
+    "_created_at.timedelta": "",
+    "_created_at.timezone": "GMT"
+  },
+  {
+    "_id": "item002_sys001",
+    "_model_id": "purchase_order",
+    "_created_by._id": "User001",
+    "_created_by": {
+      "_id": "User001",
+      "Name": "User1",
+      "Kind": "User"
+    },
+    "_created_by.Name": "User1",
+    "_created_by.Kind": "User",
+    "_created_at.value": "2023-04-24T06:08:36.887+05:30",
+    "_created_at.display_value": "2023-04-19T06:51:06Z",
+    "_created_at.timedelta": "",
+    "_created_at.timezone": "GMT"
+  }
+]
