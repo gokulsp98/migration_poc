@@ -6,7 +6,7 @@ Steps to use this code:
 
 PS: Provide the necessary snowflake connection parameters value 
 in table_creation.py and analytics_migration_etl.py
----
+
 
 Example data folder:
 
